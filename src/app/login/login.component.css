@@ -1,0 +1,32 @@
+
+
+.card
+{
+   background-image:url(../login/assets/back3.jpg) ;
+   background-repeat: no-repeat;
+   /* background-position: center; */
+   background-size: 100%;
+   
+}
+.card-body 
+{
+    margin-left: 40px;
+    
+
+}
+.card
+{
+   
+    margin: 100px 150px;
+    
+}
+.form-floating a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.form-floating  a:hover
+{
+    color:black;
+}
